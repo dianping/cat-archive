@@ -1,3 +1,5 @@
+**注意：本仓库是cat的归档仓库，保存了3.0.1版本以下的所有历史**
+
 <img src="https://github.com/dianping/cat/raw/master/cat-home/src/main/webapp/images/logo/cat_logo03.png" width="50%">
 
 **CAT**
